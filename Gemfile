@@ -8,6 +8,7 @@ gem 'rails', '~> 5.2.6'
 # Use sqlite3 as the database for Active Record
 
 gem 'pg', '~> 1.2', '>= 1.2.3'
+gem 'active_record-postgres-constraints', '~> 0.2.2'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
